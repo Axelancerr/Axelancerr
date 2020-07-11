@@ -10,4 +10,5 @@ Im open to discord bot commissions so just shoot me a message on discord over at
   - Info logging
   - Basic web dashboards
   - Databases
+  
 I am also willing to learn other things, so if something you need isn't listed here just ask me.
