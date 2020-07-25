@@ -5,8 +5,8 @@ My main project at the moment is a discord bot called [Life](https://github.com/
 
 Im open to discord bot commissions so just send me a message on discord over at MrRandom#9258, i have experience with:
   - Music players
-  - Tags
-  - Todo
+  - Tag's
+  - Todo's
   - Info logging
   - Basic web dashboards
   - Databases
