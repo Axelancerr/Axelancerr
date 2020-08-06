@@ -1,5 +1,4 @@
  ### Hey there im MyNameBeMrRandom (MrRandom#9258)
----
 <p align="left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameBeMrRandom&theme=tokyonight&card_width=445&layout=compact" />
