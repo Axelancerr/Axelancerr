@@ -17,9 +17,9 @@
   
   ### Main repos
   <a href="https://github.com/MyNameBeMrRandom/Life">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameBeMrRandom&repo=Life" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameBeMrRandom&repo=Life&theme=tokyonight" />
   </a>  
   <a href="https://github.com/MyNameBeMrRandom/diorite">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameBeMrRandom&repo=diorite" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameBeMrRandom&repo=diorite&theme=tokyonight" />
   </a>
 </p>                                                                                                                                         
