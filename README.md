@@ -2,7 +2,7 @@
 ---
 <p align="left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameBeMrRandom&theme=tokyonight&card_width=495" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameBeMrRandom&theme=tokyonight&card_width=495&compact=True" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=MyNameBeMrRandom&theme=tokyonight&count_private=true&show_icons=true" />
