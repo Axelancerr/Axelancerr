@@ -13,13 +13,5 @@
 
   I have also been expermenting with WebDev more recently and you can view my website/bot dashboard [here](https://www.mrrandom.xyz/)
 
-  Im open to discord bot commissions so just send me a message on discord over at MrRandom#9258, i have experience with:
-  <ol>
-    <li>Music players</li>
-    <li>Tags</li>
-    <li>Todos</li>
-    <li>Info logging</li>
-    <li>Web dashboards</li>
-    <li>Databases</li>
-  </ol>
+  Im available for discord bot commissions, the best way to contact me would be on discord either through my [server](https://discord.com/invite/xP8xsHr) or DM's @MrRandom#9258
 </p>                                                                                                                                         
