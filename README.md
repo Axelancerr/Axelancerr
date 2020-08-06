@@ -16,7 +16,9 @@
 
   Im available for discord bot commissions, the best way to contact me would be on discord either through my [server](https://discord.com/invite/xP8xsHr) or DM's @MrRandom#9258
   
+  
   ### Main repos
+  ---
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameBeMrRandom&repo=Life" />
   </a>  
