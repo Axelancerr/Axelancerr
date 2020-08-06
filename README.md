@@ -20,6 +20,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameBeMrRandom&repo=Life" />
   </a>  
   <a href="https://github.com/MyNameBeMrRandom/diorite">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iDevision&repo=diorite" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MyNameBeMrRandom&repo=diorite" />
   </a>
 </p>                                                                                                                                         
