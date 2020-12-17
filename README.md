@@ -6,6 +6,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Axelancerr&theme=algolia&count_private=true&show_icons=true" />
   </a>
+  <a href="https://wakatime.com/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axelancerr&theme=algolia&width=100" />
+  </a>  
 
   Im mainly a python programmer but I have been experimenting with other languages recently such as JS and Elixir. 
 
@@ -14,10 +17,6 @@
   I have also been expermenting with Web development more recently and you can view my website/bot dashboard [here](https://www.mrrandom.xyz/), other skills I have include using and configuring linux (ubuntu), setting up and configuring firewalls and other various programs such as postgres, redis, grafana and more.
 
   Im available for discord bot commissions, the best way to contact me would be on discord either through my [server](https://discord.com/invite/xP8xsHr) or DM's @Axel#3456
-  
-  <a href="https://wakatime.com/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axelancerr&theme=algolia&width=100" />
-  </a>  
   
   ### Main repos
   <a href="https://github.com/Axelancerr/Life">
