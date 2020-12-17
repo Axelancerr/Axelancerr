@@ -1,10 +1,10 @@
  ### Hey there im Axelancerr, but you can just call me Axel (Axel#3456 on discord)
 <p align="left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelancerr&theme=tokyonight&card_width=445&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelancerr&theme=algolia&card_width=445&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Axelancerr&theme=tokyonight&count_private=true&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Axelancerr&theme=algolia&count_private=true&show_icons=true" />
   </a>
 
   Im mainly a python programmer but I have been experimenting with other languages recently such as JS and Elixir. 
@@ -17,9 +17,9 @@
   
   ### Main repos
   <a href="https://github.com/Axelancerr/Life">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Axelancerr&repo=Life&theme=tokyonight" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Axelancerr&repo=Life&theme=algolia" />
   </a>  
   <a href="https://github.com/Axelancerr/diorite">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Axelancerr&repo=diorite&theme=tokyonight" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Axelancerr&repo=diorite&theme=algolia" />
   </a>
 </p>                                                                                                                                         
