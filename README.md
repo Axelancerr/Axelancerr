@@ -15,6 +15,10 @@
 
   Im available for discord bot commissions, the best way to contact me would be on discord either through my [server](https://discord.com/invite/xP8xsHr) or DM's @Axel#3456
   
+  <a href="https://wakatime.com/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axelancerr&theme=algolia" />
+  </a>  
+  
   ### Main repos
   <a href="https://github.com/Axelancerr/Life">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Axelancerr&repo=Life&theme=algolia" />
@@ -22,4 +26,5 @@
   <a href="https://github.com/Axelancerr/diorite">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Axelancerr&repo=diorite&theme=algolia" />
   </a>
+  
 </p>                                                                                                                                         
