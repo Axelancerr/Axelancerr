@@ -21,4 +21,6 @@
 
   Im available for discord bot commissions, the best way to contact me would be on discord either through my [server](https://discord.com/invite/xP8xsHr) or DM's @Axel#3456
   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dh78mw02pr5wsiv0untz7s1uw&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=dh78mw02pr5wsiv0untz7s1uw&redirect=true)
+  
 </p>                                                                                                                                         
