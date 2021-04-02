@@ -1,4 +1,5 @@
- ### Hey there im Axelancerr, but you can just call me Axel (Axel#3456 on discord)
+ ### Hey there im Axelancerr, but you can just call me Axel (Axel#3456 on discord) ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <p align="left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelancerr&theme=algolia&card_width=445&layout=compact" />
