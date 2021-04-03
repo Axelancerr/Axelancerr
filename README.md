@@ -4,13 +4,13 @@
 
 <p align="left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelancerr&theme=algolia&card_width=445&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelancerr&theme=algolia&card_width=495&langs_count=10" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Axelancerr&theme=algolia&count_private=true&show_icons=true" />
   </a>
   <a href="https://wakatime.com/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axelancerr&theme=algolia&width=100" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axelancerr&theme=algolia&width=100&layout=compact" />
   </a>  
 
   Im mainly a python programmer but I have been experimenting with other languages recently such as JS and Elixir. 
