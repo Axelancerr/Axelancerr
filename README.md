@@ -4,13 +4,13 @@
 
 <p align="left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelancerr&theme=slateorange&card_width=495&langs_count=10" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelancerr&theme=github_dark&card_width=495&langs_count=10" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Axelancerr&theme=slateorange&count_private=true&show_icons=true&include_all_commits=True" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Axelancerr&theme=github_dark&count_private=true&show_icons=true&include_all_commits=True" />
   </a>
   <a href="https://wakatime.com/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axelancerr&theme=slateorange&width=100&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Axelancerr&theme=github_dark&width=100&layout=compact" />
   </a>  
 
   Im mainly a python programmer but I have been experimenting with other languages recently such as JS and Elixir. 
