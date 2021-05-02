@@ -1,4 +1,4 @@
- ### Hey there im Axelancerr, but you can just call me Axel (Axel#3456 on discord)
+ ### Hey there im Axel (Axel#3456 on discord)
  
  ![](https://komarev.com/ghpvc/?username=Axelancerr&color=orange)
 
