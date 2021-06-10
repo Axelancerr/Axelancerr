@@ -1,4 +1,4 @@
- ### Hey there im Axel (Axel#3456 on discord) sussy baka
+ ### Hey there im Axel (Axel#3456)
  
  ![](https://komarev.com/ghpvc/?username=Axelancerr&color=orange)
 
